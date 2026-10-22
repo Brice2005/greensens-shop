@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Boutique GREENSEN SHOP"},{"path":"/seller/:slug","title":"Catalogue vendeur"},{"path":"/orders","title":"Historique des commandes"},{"path":"/seller-dashboard","title":"Espace vendeur"},{"path":"/admin","title":"Administration"},{"path":"/login","title":"Connexion client et vendeur"},{"path":"/admin/login","title":"Connexion administrateur"}]}
